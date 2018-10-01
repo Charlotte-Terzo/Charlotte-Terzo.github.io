@@ -22,5 +22,15 @@
 Un titre Du texte avec une partie en gras...</description>
     </item>
     
+    <item>
+      <title>Mon premier blog</title>
+      <link>/post/getting-started.utf8/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/post/getting-started.utf8/</guid>
+      <description>Le contenu ici
+Un titre Du texte avec une partie en gras...</description>
+    </item>
+    
   </channel>
 </rss>
