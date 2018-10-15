@@ -67,6 +67,16 @@
     
     <url>
     
+      <loc>/tags/biology/</loc>
+      <lastmod>2018-09-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -105,7 +115,8 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>/tags/sciences/</loc>
+      <lastmod>2018-09-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -114,7 +125,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>/tags/</loc>
       <lastmod>2018-09-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -125,16 +136,6 @@
     <url>
     
       <loc>/tags/biology/</loc>
-      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/hugo/</loc>
       <lastmod>2018-09-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
