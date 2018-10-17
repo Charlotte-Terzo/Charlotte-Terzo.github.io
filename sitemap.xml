@@ -67,6 +67,14 @@
     
     <url>
     
+      <loc>/project/example-project/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/biology/</loc>
       <lastmod>2018-09-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
